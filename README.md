@@ -1,7 +1,7 @@
 # CSS-Selectors
 A CSS Exercise
 
-Requirements
+# Requirements
 
 The header element should have a 1px border. You choose the color.
 Convert the ul in the navigation element into a series of horizontal links with # as the href value, without bullets, and have some space between them horizontally.
